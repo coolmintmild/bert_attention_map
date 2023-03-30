@@ -1,4 +1,4 @@
-# Description of each column
+# Description of each column of item files
 
 id: index<br />
 Stimulus: item number<br />
