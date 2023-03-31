@@ -1,6 +1,6 @@
 # bert_attention_map
 
-This repository contains data and test code for the following paper: <br/><br/>
+This repository contains the data and code for the following paper: <br/><br/>
 
 APA style reference.<br/><br/>
 
