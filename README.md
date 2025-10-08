@@ -2,7 +2,8 @@
 
 This repository contains the data and code for the following paper: <br/><br/>
 
-APA style reference.<br/><br/>
+Lee, J., & Shin, J. A. (2023). Decoding BERT’s Internal Processing of Garden-Path Structures through Attention Maps. Korean Journal of English Language and Linguistics, 23, 461-481.<br/><br/>
+
 
 Please cite the paper if you use the resources in the repository.<br/>
 
